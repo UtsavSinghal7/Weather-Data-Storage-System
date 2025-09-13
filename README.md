@@ -11,3 +11,14 @@ It stores temperature records for multiple years and cities using a 2D array.
 - Analyze time and space complexity
 
 
+## How to Run
+1. Download the repository or clone it:
+   ```bash
+   git clone https://github.com/UtsavSinghal7/Weather-Data-Storage-System.git
+2.Open the Jupyter Notebook Data Structures Assignment1.ipynb in Jupyter or VS Code.
+
+3.Run all cells to see the output.
+
+Submitted by: Utsav Singhal
+Roll Number: 2401420041
+Course: Data Structures
